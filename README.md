@@ -30,7 +30,7 @@ Customer churn can reduce revenue and long-term customer value. This project exp
 - Retention Rate: 79.63%
 
 ## Project Files
-- `Bank_Customer_Churn_Analysis.pbix` — Power BI dashboard
+- `Churn_Analysis.pbix` — Power BI dashboard
 - `bank_customer_churn_analysis.sql` — SQL analysis queries
 
 ## Key Findings
