@@ -34,8 +34,12 @@ Customer churn can reduce revenue and long-term customer value. This project exp
 - `bank_customer_churn_analysis.sql` — SQL analysis queries
 
 ## Key Findings
-The analysis examines how churn varies across geography, age groups, product usage, tenure, and other customer characteristics. The dashboard presents these patterns to support further investigation into customer retention.
-
+- Germany had the highest customer churn rate among the three countries analyzed, at 32.44%.
+- Customers aged 50–59 had the highest churn rate at 56.04%.
+- Inactive customers had a higher churn rate (26.85%) than active customers (14.27%).
+- Out of 10,000 customers, 2,037 had churned, resulting in an overall churn rate of 20.37%.
+- These findings highlight customer segments that may need further investigation to improve customer retention.
+  
 ## How to Use
 1. Open the SQL script in MySQL Workbench.
 2. Connect to a MySQL database containing the required tables and columns.
